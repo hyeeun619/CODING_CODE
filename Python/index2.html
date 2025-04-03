@@ -1,0 +1,68 @@
+<!-- 가상클래스  -->
+ <!DOCTYPE html>
+ <html lang="en">
+ <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        /* a:hover{
+            color: red;
+        }
+         a:active {
+            color: blue;
+         }
+         input:focus{
+            background-color: aqua;
+         } */
+         /* .fruits span:first-child{
+            color: darkblue;
+         }
+         .fruits h3:last-child {
+            color: plum;
+         }
+         .fruits *:nth-child(2) {
+            color:pink;
+         }
+         .fruits *:nth-child(3) {
+            color:yellow;
+         }
+         .fruits *:nth-child(4) {
+            color:skyblue;
+         } */
+          .box::before{
+            content:"앞!";
+            color: pink;
+          }
+          .box::after{
+            content:"뒤!";
+            color: skyblue;
+          }
+          [disabled] {
+            background-color:yellow;
+          }
+          [type="password"] {
+            background-color: blueviolet;
+          }
+    </style>
+ </head>
+ <body>
+    <div>
+        <!-- <a href="https://naver.com">네이버</a>
+        <input type="text" /> -->
+    <!-- </div>
+    <div class="fruits">
+        <span>딸기</span>
+        <span>수박</span>
+        <div>오렌지</div>
+        <p>망고</p>
+        <h3>사과</h3> -->
+    </div>
+    <div class="box">컨텐츠</div>
+    <div>
+        <input type="text"><br />
+        <input type="text" disabled><br />
+        <input type="password" value="id" readonly>
+    </div>
+ </body>
+ </html>
