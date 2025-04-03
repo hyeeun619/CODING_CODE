@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gpdms\\Documents\\KDT-8\\C\u002B\u002B\\0402\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3CA22581-6CE2-4433-9514-7BBBD8EF5D29}|0402\\0402.vcxproj|C:\\Users\\gpdms\\Documents\\KDT-8\\C\u002B\u002B\\0402\\0402\\0402.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3CA22581-6CE2-4433-9514-7BBBD8EF5D29}|0402\\0402.vcxproj|solutionrelative:0402\\0402.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "0402.cpp",
+              "DocumentMoniker": "C:\\Users\\gpdms\\Documents\\KDT-8\\C\u002B\u002B\\0402\\0402\\0402.cpp",
+              "RelativeDocumentMoniker": "0402\\0402.cpp",
+              "ToolTip": "C:\\Users\\gpdms\\Documents\\KDT-8\\C\u002B\u002B\\0402\\0402\\0402.cpp",
+              "RelativeToolTip": "0402\\0402.cpp",
+              "ViewState": "AgIAAK8BAAAAAAAAAAAYwMABAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-03T09:31:59.573Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
